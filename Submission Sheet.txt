@@ -1,0 +1,60 @@
+CS 0445 Assignment Information Sheet
+ 
+You must electronically submit an information sheet with every assignment. Also be sure to submit all materials following the procedures described on the submission procedures page.
+
+Name:___Christian Clark____________ Assignment #: ___2__________
+
+Lecture Day and Time: ___Tuesday/Thursday 2:30 PM___
+
+Recitation Day and Time: ___Friday 1 PM___________
+
+Program Due Date: ___2/11/2015___________
+
+Handed in Date: ___2/11/2015___________ 
+
+Source code (.java) file name(s):
+
+______________Assig2.java, Crate.java, LinkedStack.java, 
+
+StackInterface.java, Store.java ________________________________
+
+________________________________________________________________
+
+Compiled (.class) file name(s): ___N/A__________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program compile without error?: ___Yes__________ 
+
+If not, what is/are the error(s)?:
+
+____N/A_________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Does your program run without error?: ___Yes_______ 
+
+If not, what is/are the error(s) and which parts of your program run correctly?:
+
+____N/A_________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+
+Additional comments (including problems and extra credit):
+
+____N/A_________________________________________________________
+
+________________________________________________________________
+
+________________________________________________________________
+ 
+________________________________________________________________
+ 
